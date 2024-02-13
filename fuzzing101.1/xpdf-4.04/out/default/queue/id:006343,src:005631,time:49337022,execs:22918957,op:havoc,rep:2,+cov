@@ -1,0 +1,65 @@
+%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+  /Type /Pages
+  /Media 1
+  /Kids [ 3 0 R ]
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 4 0 R 
+    >>
+  >>
+  /Contents 5 0 R
+>>
+endobj
+
+4 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Times-Roman
+>>
+endobj
+
+5 0 obj  % page content
+<<
+  /Length 44
+>>
+stream
+BT
+70 50 TD
+/F1 12 Tf
+(Hello,42335Ñ½ú5h
+îÍw0AE52358>]/Preailer
+<</Size 14/Info 1 0 R/Root 5 0 R/èorld!) Tj
+ET
+endstream
+endf
+0 6
+0000000000 65535 f 
+0000000010 000003n 
+0000000079 00000 n 
+000 100173 380 
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxref
+492
+%%E

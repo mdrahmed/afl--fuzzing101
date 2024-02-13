@@ -1,0 +1,29 @@
+-I/home/raihan/afl++-fuzzing101/fuzzing101.1/xpdf-4.04
+-I/home/raihan/afl++-fuzzing101/fuzzing101.1/xpdf-4.04/build
+-I/home/raihan/afl++-fuzzing101/fuzzing101.1/xpdf-4.04/goo
+-I/home/raihan/afl++-fuzzing101/fuzzing101.1/xpdf-4.04/fofi
+-I/home/raihan/afl++-fuzzing101/fuzzing101.1/xpdf-4.04/splash
+-I/home/raihan/afl++-fuzzing101/fuzzing101.1/xpdf-4.04/xpdf
+-I/home/raihan/anaconda3/include/qt/
+-I/home/raihan/anaconda3/include/qt/QtWidgets
+-I/home/raihan/anaconda3/include/qt/QtGui
+-I/home/raihan/anaconda3/include/qt/QtCore
+-I/home/raihan/anaconda3/./mkspecs/linux-g++
+-I/usr/include /home/raihan/anaconda3/include/qt/
+-I/home/raihan/anaconda3/include/qt/QtNetwork
+-I/home/raihan/anaconda3/include/qt/QtCore
+-I/home/raihan/anaconda3/./mkspecs/linux-g++ /home/raihan/anaconda3/include/qt/
+-I/home/raihan/anaconda3/include/qt/QtPrintSupport
+-I/home/raihan/anaconda3/include/qt/QtWidgets
+-I/home/raihan/anaconda3/include/qt/QtGui
+-I/home/raihan/anaconda3/include/qt/QtCore
+-I/home/raihan/anaconda3/./mkspecs/linux-g++
+-I/usr/include
+-DQT_WIDGETS_LIB
+-DQT_GUI_LIB
+-DQT_WIDGETS_LIB
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/raihan/afl++-fuzzing101/fuzzing101.1/xpdf-4.04/build/xpdf-qt/moc_XpdfWidget.cpp
+/home/raihan/afl++-fuzzing101/fuzzing101.1/xpdf-4.04/xpdf-qt/XpdfWidget.h
