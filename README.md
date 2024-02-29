@@ -1,5 +1,5 @@
 # Afl++ testing
-While fuzzing the new `xpdf-4.04` with afl++, I found the actual bugs.
+While fuzzing the new `xpdf-4.05` with afl++, I found the actual bugs.
 
 Here are the crashes,
 
@@ -14,4 +14,4 @@ These are real errors giving segmentation fault,
 ![xpdf-segfault](pics/actual-bugs.png)
 
 
-The crashes can be found at this location `./fuzzing101.1/xpdf-4.04/out/default/crashes` 
+The crashes can be found at this location `./fuzzing101.1/xpdf-4.05/out/default/crashes` 
